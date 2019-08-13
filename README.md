@@ -1,0 +1,2 @@
+# AUTOMATED-ESSAY-GRADER
+Essay grading using MACHINE LEARNING.
